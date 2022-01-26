@@ -1,0 +1,12 @@
+.home, .profile, .enrolled-subjects, .grades  {
+    margin: 180px 70px 180px 70px;
+}
+
+.card, .table {
+    max-width: 1200px;
+}
+
+.profile img {
+    height: 75px;
+    width: 75px;
+}
